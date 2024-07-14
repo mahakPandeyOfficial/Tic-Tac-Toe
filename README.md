@@ -1,5 +1,5 @@
 ## TIC-TAC-TOE
-[Link Text]([URL](https://tic-tac-7mzz9tqqn-mahak-pandeys-projects.vercel.app/))
+## [Play Now]([URL](https://tic-tac-7mzz9tqqn-mahak-pandeys-projects.vercel.app/))
 ```markdown
 
 Welcome to the Tic Tac Toe game project! This project is a simple implementation of the classic game, built using React.
